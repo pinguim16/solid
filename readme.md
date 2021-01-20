@@ -129,3 +129,4 @@ Observação: Não confundir com injeção de dependências, pois apesar de ter 
 
 ![Alt](img/dip.png "DIP")
 
+<img src="/img/dip.png" alt="DIP" width="200"/>
