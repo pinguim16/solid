@@ -73,6 +73,9 @@ O princípio Single Responsibility Principle é responsável pela coesão das cl
 
 <img src="/img/srp.png" alt="SRP" width="400" />
 
+[Exemplo sem aplicação do SRP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/srp/notapply)
+[Exemplo com aplicação do SRP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/srp/apply)
+
 ## OCP - Open-Closed Principle (Princípio Aberto-Fechado)
 Uma classe deve permitir a sua extensão para mudar o seu comportamento, mas ela precisa ser fechada para alteração garantindo 
 que a classe seja alterada frequentemente tornando-a mais coesa. Uma boa forma de trabalhar com esse padrão é criando 
