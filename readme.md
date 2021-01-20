@@ -45,12 +45,12 @@ Para verificar o nível de encapsulamento se realiza as seguintes perguntas:
   pois ele precisa esconder bem o que está fazendo. 
 * “Consigo saber COMO a classe está implementando essa regra de negócio?”, se a resposta for sim, então quer dizer que não bem encapsulado.  
 
-<img src="/img/encapsulamento.png" alt="Acoplamento" width="400" />
-
 #### Simplificando:
 * Getters e setters não são formas eficientes de aplicar encapsulamento (polêmica essa afirmação);
 * É interessante fornecer acesso apenas ao que é necessário nas nossas classes;
 * O encapsulamento torna o uso das nossas classes mais fácil e intuitivo;
+
+<img src="/img/encapsulamento.png" alt="Acoplamento" width="400" />
 
 ## Herança
 A herança é um mecanismo da Orientação a Objetos que permite criar classes a partir de classes já existentes aproveitando assim todas as suas características existentes.  
