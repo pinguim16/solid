@@ -13,7 +13,7 @@ Uma classe que não para de crescer demonstra indício que classe está perdendo
 
 Simples assim!
 
-![Alt](img/coesao.png "Coesão")
+<img src="/img/coesao.png" alt="Coesão" width="400" />
 
 ## Acoplamento
 Uma classe que depende de uma ou mais classes para funcionar.
@@ -33,7 +33,7 @@ Quando várias classes dependem de uma classe, demonstrando que essa classe é e
 
 Acoplamento demais pode ser prejudicial ao sistema!
 
-![Alt](img/acoplamento.png "Acoplamento")
+<img src="/img/acoplamento.png" alt="Acoplamento" width="400" />
 
 ## Encapsulamento
 Um código encapsulado esconde como realiza a sua tarefa. Os detalhes de implementação estão escondidos dentro de uma classe/método/função, 
@@ -54,7 +54,7 @@ Para verificar o nível de encapsulamento se realiza as seguintes perguntas:
 A herança é um mecanismo da Orientação a Objetos que permite criar classes a partir de classes já existentes aproveitando assim todas as suas características existentes.  
 Como exemplo o abaixo que temos engenheiro, diretor, secretario e gerente herdando os atributos de funcionário. 
 
-![Alt](img/heranca.png "Herança")
+<img src="/img/heranca.png" alt="Herança" width="400" />
 
 ## Composição
 Composição é quando uma classe está contida na outra, por exemplo, temos a classe Carro e a classe Motor. 
@@ -71,7 +71,7 @@ O princípio Single Responsibility Principle é responsável pela coesão das cl
 
 "Só porque você pode, não significa que você deve."
 
-![Alt](img/srp.png "Srp")
+<img src="/img/srp.png" alt="SRP" width="400" />
 
 ## OCP - Open-Closed Principle (Princípio Aberto-Fechado)
 Uma classe deve permitir a sua extensão para mudar o seu comportamento, mas ela precisa ser fechada para alteração garantindo 
@@ -87,7 +87,7 @@ Isso significa que devemos criar funcionalidades e estender o sistema sem precis
 
 "Uma cirurgia no cérebro não é necessária para se colocar um chapéu."
 
-![Alt](img/ocp.png "OCP")
+<img src="/img/ocp.png" alt="OCP" width="400" />
 
 ## LSP - Liskov Substitution Principle (Princípio da substituição de Liskov)
 O princípio surgiu numa conferência de nome “Data abstraction” que diz se S é um subtipo de T, então os objetos 
@@ -99,7 +99,7 @@ do tipo T num programa, podem ser substituídos pelos objetos de tipo S sem que 
 
 "Se nada como um pato, voa como um pato, porém precisa de baterias, provavelmente possui um problema de abstração."
 
-![Alt](img/lsp.png "LSP")
+<img src="/img/lsp.png" alt="LSP" width="400" />
 
 ## ISP - Interface Segregation Principle (Princípio da Segregação da Interface) 
 Esse principio nos diz que é melhor criar várias interfaces do que uma única genérica que força a implementação 
@@ -110,7 +110,7 @@ de um método que não iremos utilizar.
 
 "Onde deseja conecta o plug?"
 
-![Alt](img/isp.png "ISP")
+<img src="/img/isp.png" alt="ISP" width="400" />
 
 ## DIP - Dependency Inversion Principle (Princípio da inversão da dependência)
 O princípio de inversão preza sempre para o uso de classes que estejam mais estáveis que a sua, ou seja, sempre que a classe A depender de B, 
@@ -127,4 +127,4 @@ Observação: Não confundir com injeção de dependências, pois apesar de ter 
 
 "Você soldaria uma lâmpada elétrica diretamente a fiação na parede?"
 
-<img src="/img/dip.png" alt="DIP" width="400" style=""/>
+<img src="/img/dip.png" alt="DIP" width="400" />
