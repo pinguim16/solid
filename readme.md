@@ -1,7 +1,7 @@
 # Solid
 Consiste no acrônimo de 5 boas práticas de programação orientada a objetos onde visa auxiliar o programador no seu dia a dia a produzir códigos mais elegantes.
 
-<img src="/img/solid.png" alt="Acoplamento" width="400" />
+<img src="/img/solid.png" alt="Acoplamento" width="600" />
 
 
 Para iniciarmos esse mini-tutorial iremos esclarecer alguns conceitos antes:
