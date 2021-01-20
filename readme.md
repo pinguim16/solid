@@ -128,3 +128,12 @@ Observação: Não confundir com injeção de dependências, pois apesar de ter 
 "Você soldaria uma lâmpada elétrica diretamente a fiação na parede?"
 
 <img src="/img/dip.png" alt="DIP" width="400" />
+
+# Conclusão
+
+Como conclusão vamos enumerar algumas vantagens do uso do solid no projeto : 
+* Torna o código mais entendível, claro e conciso;
+* Torna o código mais flexível e tolerante a mudanças;
+* Aumenta a adesão do código aos princípios da orientação a objetos.
+
+Pode se conferir nesse repositório um segundo exemplo onde aplicamos diretamente o SOLID.
