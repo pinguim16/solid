@@ -92,6 +92,9 @@ Isso significa que devemos criar funcionalidades e estender o sistema sem precis
 
 <img src="/img/ocp.png" alt="OCP" width="400" />
 
+[Exemplo sem aplicação do OCP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/ocp/notapply)  
+[Exemplo com aplicação do OCP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/ocp/apply)
+
 ## LSP - Liskov Substitution Principle (Princípio da substituição de Liskov)
 O princípio surgiu numa conferência de nome “Data abstraction” que diz se S é um subtipo de T, então os objetos 
 do tipo T num programa, podem ser substituídos pelos objetos de tipo S sem que seja necessário alterar as propriedades deste programa. 
@@ -104,6 +107,10 @@ do tipo T num programa, podem ser substituídos pelos objetos de tipo S sem que 
 
 <img src="/img/lsp.png" alt="LSP" width="400" />
 
+
+[Exemplo sem aplicação do LSP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/lsp/notapply)  
+[Exemplo com aplicação do LSP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/lsp/apply)
+
 ## ISP - Interface Segregation Principle (Princípio da Segregação da Interface) 
 Esse principio nos diz que é melhor criar várias interfaces do que uma única genérica que força a implementação 
 de um método que não iremos utilizar.
@@ -114,6 +121,9 @@ de um método que não iremos utilizar.
 "Onde deseja conecta o plug?"
 
 <img src="/img/isp.png" alt="ISP" width="400" />
+
+[Exemplo sem aplicação do ISP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/isp/notapply)  
+[Exemplo com aplicação do ISP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/isp/apply)
 
 ## DIP - Dependency Inversion Principle (Princípio da inversão da dependência)
 O princípio de inversão preza sempre para o uso de classes que estejam mais estáveis que a sua, ou seja, sempre que a classe A depender de B, 
@@ -131,6 +141,9 @@ Observação: Não confundir com injeção de dependências, pois apesar de ter 
 "Você soldaria uma lâmpada elétrica diretamente a fiação na parede?"
 
 <img src="/img/dip.png" alt="DIP" width="400" />
+
+[Exemplo sem aplicação do DIP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/dip/notapply)  
+[Exemplo com aplicação do DIP.](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example/dip/apply)
 
 # Conclusão
 
