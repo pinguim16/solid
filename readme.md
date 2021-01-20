@@ -136,4 +136,4 @@ Como conclusão vamos enumerar algumas vantagens do uso do solid no projeto :
 * Torna o código mais flexível e tolerante a mudanças;
 * Aumenta a adesão do código aos princípios da orientação a objetos.
 
-Pode se conferir nesse repositório um segundo exemplo onde aplicamos diretamente o SOLID.
+Pode se conferir nesse repositório um [segundo exemplo](https://github.com/pinguim16/solid/tree/master/src/com/demo/solid/example2) onde aplicamos diretamente o SOLID.
