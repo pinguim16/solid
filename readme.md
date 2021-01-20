@@ -1,4 +1,4 @@
-#Solid
+# Solid
 Consiste no acrônimo de 5 boas práticas de programação orientada a objetos onde visa auxiliar o programador no seu dia a dia a produzir códigos mais elegantes.
 Para iniciarmos esse mini-tutorial iremos esclarecer alguns conceitos antes:
 
