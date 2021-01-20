@@ -44,7 +44,9 @@ Para verificar o nível de encapsulamento se realiza as seguintes perguntas:
 * “Como ele faz isso?”, se não conseguirmos responder essa questão sem adentrar no método já um bom sinal de encapsulamento, 
   pois ele precisa esconder bem o que está fazendo. 
 * “Consigo saber COMO a classe está implementando essa regra de negócio?”, se a resposta for sim, então quer dizer que não bem encapsulado.  
-  
+
+<img src="/img/encapsulamento.png" alt="Acoplamento" width="400" />
+
 #### Simplificando:
 * Getters e setters não são formas eficientes de aplicar encapsulamento (polêmica essa afirmação);
 * É interessante fornecer acesso apenas ao que é necessário nas nossas classes;
